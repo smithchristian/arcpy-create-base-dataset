@@ -125,6 +125,10 @@ This module is used to generate a html catalogue.
 
     This module is used to generate a html report listing the geodatabases created by this project and their contents.
 
+**testData**
+
+    This directory contains shapefiles to be used in testing the application. All the data used for the testing can be found on [Queensland Spatial Catalogue - QSpatial](http://qldspatial.information.qld.gov.au/catalogue/custom/index.page).
+
 ### Requirements
 
 In order to run this project the following is required:
