@@ -1,0 +1,111 @@
+<metadata xml:lang="en"><Esri><CreaDate>20140723</CreaDate><CreaTime>11115900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>North American Profile of ISO19115 2003</ArcGISstyle><SyncOnce>FALSE</SyncOnce><DataProperties><itemProps><itemName Sync="TRUE">Baseline_roads_and_tracks</itemName><imsContentType Sync="TRUE" export="False">002</imsContentType><nativeExtBox><westBL Sync="TRUE">137.976329</westBL><eastBL Sync="TRUE">153.551682</eastBL><southBL Sync="TRUE">-29.177948</southBL><northBL Sync="TRUE">-9.373145</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">0.000</itemSize><itemLocation><linkage Sync="TRUE">file://\\autsv1fp001\GIS\TSV_GIS\Software\PythonScripts\christian_working\create_base_datasets_public\create-base-dataset-master\testData\Baseline_Roads_and_Tracks\Baseline_roads_and_tracks.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_GDA_1994</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.3'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_GDA_1994&amp;quot;,DATUM[&amp;quot;D_GDA_1994&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4283]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4283&lt;/WKID&gt;&lt;LatestWKID&gt;4283&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef><lineage/></DataProperties><SyncDate>20160424</SyncDate><SyncTime>10343200</SyncTime><ModDate>20160424</ModDate><ModTime>10343200</ModTime><scaleRange><minScale>150000000</minScale><maxScale>5000</maxScale></scaleRange><ArcGISProfile>ISO19139</ArcGISProfile></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</envirDesc><dataLang><languageCode value="eng" Sync="TRUE"/><countryCode value="AUS" Sync="TRUE"/></dataLang><idCitation xmlns=""><resTitle Sync="FALSE">Baseline roads and tracks Queensland</resTitle><presForm xmlns=""><PresFormCd value="005" Sync="TRUE"/></presForm><date><pubDate>2015-12-17T00:00:00</pubDate></date><resAltTitle>BUILT.QLD_BASELINE_ROADS_AND_TRACKS</resAltTitle></idCitation><spatRpType><SpatRepTypCd value="001" Sync="TRUE"/></spatRpType><dataExt xmlns=""><tempEle><TempExtent><exTemp><TM_Period xmlns=""><tmBegin>2009-01-01T00:00:00</tmBegin><tmEnd>2014-07-20T00:00:00</tmEnd></TM_Period></exTemp></TempExtent></tempEle></dataExt><idPurp>To provide the digital road network of Queensland for use in for use in Land Administration, Topographic Mapping and in the production of Navigational and Web Based Mapping applications.
+
+
+ </idPurp><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This dataset represents street centrelines of Queensland developed in compliance with the provisions of the Queensland Spatial Information Infrastructure Strategy (QSIIS) Standard 3. The street records are polylines with attribution including street name, road classification, route numbers (State and National), and unique identifier.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><dataChar><CharSetCd value="004"/></dataChar><suppInfo>Data domain road types are: 
+Type Code: Feature: 
+1 Freeways/Motorways 
+2 Highways 
+3 Secondary Roads 
+4 Local Connector Roads 
+5 Street/Local - only provides property access 
+6 Private or Restricted Roads 
+7 4WD and Tracks 
+8 Malls 
+9 Construction lines 
+10 Unconstructed and/or dedicated 
+11 Ferry 
+12 Bikeways/Walkways 
+13 Busways
+</suppInfo><resMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq></resMaint><idStatus><ProgCd value="004"/></idStatus><idPoC xmlns=""><rpIndName>Senior Spatial Information Officer (Product Delivery)</rpIndName><rpOrgName>Department of Natural Resources and Mines</rpOrgName><rpPosName>Client Outcomes (Product Delivery)</rpPosName><role><RoleCd value="007"/></role></idPoC><resConst><Consts xmlns=""><useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Dataset is wholly created and owned by Natural Resources and Mines for the State of Queensland.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit></Consts></resConst><resConst><LegConsts xmlns=""><accessConsts><RestrictCd value="008"/></accessConsts><othConsts>Unrestricted to all levels of government and community. Dataset is available at cost of transfer (unless otherwise agreed) to all government agencies, community groups and individuals. Dataset will be available via web delivery tools, for example, through DNRM's internet sites.</othConsts><useLimit>While every care is taken to ensure the accuracy of this information, the Department of Natural Resources and Mines makes no representations or warranties about its accuracy, reliability, completeness or suitability for any particular purpose and disclaims all responsibility and all liability (including without limitation, liability in negligence) for all expenses, losses, damages (including indirect or consequential damage) and costs which might be incured as a result of the information being inaccurate or incomplete in any way and for any reason. </useLimit></LegConsts></resConst><resConst><LegConsts xmlns=""><useLimit>This work is licensed under the Creative Commons Attribution 3.0 Australia License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/au/.  
+The Department of Natural Resources and Mines requests attribution in the following manner: 
+© State of Queensland (Department of Natural Resources and Mines) 2015.</useLimit></LegConsts></resConst><resConst><SecConsts xmlns=""><class><ClasscationCd value="001"/></class></SecConsts></resConst><resConst><LegConsts xmlns=""><useConsts><RestrictCd value="001"/></useConsts><useLimit> © State of Queensland (Department of Natural Resources and Mines) 2015</useLimit></LegConsts></resConst><tpCat><TopicCatCd value="018"/></tpCat></dataIdInfo><mdLang><languageCode value="eng" Sync="TRUE"/><countryCode value="AUS" Sync="TRUE"/></mdLang><mdChar><CharSetCd value="004" Sync="TRUE"/></mdChar><distInfo xmlns=""><distFormat xmlns=""><formatName Sync="TRUE">Shapefile</formatName><formatVer>10.1</formatVer></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><mdHrLv><ScopeCd value="005" Sync="TRUE"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem dimension=""><refSysID xmlns=""><identCode code="4283" Sync="TRUE"/><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.6.2</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="Baseline_roads_and_tracks"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><spdoinfo><ptvctinf><esriterm Name="Baseline_roads_and_tracks"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="3" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">TRUE</linrefer></esriterm></ptvctinf></spdoinfo><eainfo><detailed Name="Baseline_roads_and_tracks" xmlns=""><enttyp><enttypl Sync="FALSE">Baseline Roads and Tracks Queensland</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">STREET</attrlabl><attalias Sync="TRUE">STREET</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr xmlns=""><attrlabl Sync="TRUE">ROADTYPE</attrlabl><attalias Sync="TRUE">ROADTYPE</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr xmlns=""><attrlabl Sync="TRUE">STE_ROUTE_</attrlabl><attalias Sync="TRUE">STE_ROUTE_</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr xmlns=""><attrlabl Sync="TRUE">NAT_ROUTE_</attrlabl><attalias Sync="TRUE">NAT_ROUTE_</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr xmlns=""><attrlabl Sync="TRUE">BASELINE_I</attrlabl><attalias Sync="TRUE">BASELINE_I</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed></eainfo><mdDateSt Sync="TRUE">20160424</mdDateSt><Binary><Thumbnail><Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAoorP1u/j0vSpL6aV4oIHR5XVd21N43E8jjGcnsMnnpTjFyaSAvg7hkZ/EY
+pahtblLu2juIwwVxkB12sPYg8gjoQeQeDUwGKGraAFFFFIAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKztYS1u9OurC5nEKy27szltuxR/ET2AJB544NaNcz4p0iXUZ7We1
+ib7XBG6xy7UKqWK4yHjcHkZ7YAPIyK1opOau7CZu2Dwy6fby26qsMkauiqcgAjIx7c1ZrivDL6g9
+xbwTTzRC1d1FrJMpLxkMSx2ryFJRRnGGDg9hXa0VqfJK1wTuFFFFZDCiiigAooooAKKKKACiiigA
+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
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==</Data></Thumbnail></Binary><dqInfo xmlns=""><dataLineage><statement>The street records of the State Digital Road Network (SDRN) baseline dataset have been generated from road casement boundaries of the QLD Digital Cadastre Database (DCDB)and updated where more accurate source data has been available. Other sources used in the maintenance of the streets dataset include aerial imagery, QLD Department of Transport and Main Roads State Controlled Roads dataset, supplied datasets from other State Government Departments, Local Government data, field work suing GPS, and user feedback.
+</statement></dataLineage><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope><report type="DQTopConsis" dimension="" xmlns=""><measDesc>There are two forms of Logical consistency checks performed on the streets dataset. In terms of the street segment geometry, procedures are carried out to identify and rectify: Overshoots and undershoots, Pseudo-nodes (unnecessary breaks in continuous roads) except at location of overpasses\underpasses, Segments less than 3 metres, Duplicate objects, Null objects, and Objects are polylines only. In regards to the attribution of the street segment, checks are carried out to ensure: Street names contain valid characters (i.e. Alpha-numeric characters, no apostrophes, or other punctuation characters), all components of the street name, including prefixes, suffixes, and road types, are described in full, all characters are in Upper case, and no null values.</measDesc></report><report type="DQCompComm" dimension="" xmlns=""><measDesc>Completeness is a reflection of the completeness and validity of the DCDB casement layer. Each maintenance release uses the DCDB data current to within 1-2 months of the release date. Private streets (or non-gazetted streets) are included only where they form an important part of the overall street network.</measDesc></report><report type="DQAbsExtPosAcc" dimension="" xmlns=""><measDesc>Horizontal positional accuracy of the street centrelines varies from +/- 1.5 metres in urban areas up to +/- 250 metres in rural/remote areas.
+
+</measDesc></report><report type="DQNonQuanAttAcc" dimension="" xmlns=""><measDesc>Street names are sourced originally from the QLD DCDB and subsequently validated with various Local and State Government datasets, including the QLD Property Location Index. Road classifications were originally derived from Queensland Government road maps and are revised during maintenance periods.</measDesc></report></dqInfo><mdContact xmlns=""><rpIndName>Senior Spatial Information Officer</rpIndName><rpOrgName>Department of Natural Resources and Mines</rpOrgName><role><RoleCd value="006"/></role></mdContact><mdMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq></mdMaint></metadata>
