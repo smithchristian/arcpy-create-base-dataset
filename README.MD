@@ -127,7 +127,8 @@ This module is used to generate a html catalogue.
 
 **testData**
 
-    This directory contains shapefiles to be used in testing the application. All the data used for the testing can be found on [Queensland Spatial Catalogue - QSpatial](http://qldspatial.information.qld.gov.au/catalogue/custom/index.page).
+This directory contains shapefiles to be used in testing the application. All the data used for the testing can be found on
+[Queensland Spatial Catalogue - QSpatial](http://qldspatial.information.qld.gov.au/catalogue/custom/index.page).
 
 ### Requirements
 
