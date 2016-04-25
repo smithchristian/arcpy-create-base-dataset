@@ -3,84 +3,43 @@
 This project is designed to create base datasets for projects utilising ArcGIS 10.x , Arcpy and Python. The term "base" in the title, refers to baseline/basic dataset which would contain generic GIS layers (e.g. Roads, Railway line, Watercouses) needed to start a project.
 
 ### Description of Project Contents
-.
-├── create_base_datasets_public
-│   ├── createbasedatasets.tbx
-│   ├── __init__.py
-│   ├── LICENCE.TXT
-│   ├── main.py
-│   ├── README.MD
-│   ├── supportingModules
-│   │   ├── adm.py
-│   │   ├── adm.pyc
-│   │   ├── cad.py
-│   │   ├── cad.pyc
-│   │   ├── cli.py
-│   │   ├── cli.pyc
-│   │   ├── create_index.py
-│   │   ├── create_index.pyc
-│   │   ├── env.py
-│   │   ├── env.pyc
-│   │   ├── geo.py
-│   │   ├── geo.pyc
-│   │   ├── haz.py
-│   │   ├── haz.pyc
-│   │   ├── hum.py
-│   │   ├── hum.pyc
-│   │   ├── hyd.py
-│   │   ├── hyd.pyc
-│   │   ├── __init__.py
-│   │   ├── __init__.pyc
-│   │   ├── lnd.py
-│   │   ├── lnd.pyc
-│   │   ├── mar.py
-│   │   ├── mar.pyc
-│   │   ├── pln.py
-│   │   ├── pln.pyc
-│   │   ├── ras.py
-│   │   ├── ras.pyc
-│   │   ├── top.py
-│   │   ├── top.pyc
-│   │   ├── trn.py
-│   │   ├── trn.pyc
-│   │   ├── utl.py
-│   │   └── utl.pyc
-│   └── testData
 
-create-base-datasets
-|   +-- createbasedatasets.tbx
-|   +-- __init__.py
-|   +-- LICENCE.TXT
-|   +-- main.py
-|   +-- README.MD
-|   +-- _supportingModules
-|   |   +-- __init__.py
-|   |   +-- adm.py
-|   |   +-- cad.py
-|   |   +-- cli.py
-|   |   +-- env.py
-|   |   +-- geo.py
-|   |   +-- haz.py
-|   |   +-- hum.py
-|   |   +-- hyd.py
-|   |   +-- lnd.py
-|   |   +-- mar.py
-|   |   +-- pln.py
-|   |   +-- ras.py
-|   |   +-- top.py
-|   |   +-- utl.py
-|   |   +-- create_index.py
-|   +-- _testData
-|   |   +-- _Baseline_Roads_and_Tracks
-|   |   +-- _Drainage_Line_Major
-|   |   +-- _Erosion_Prone_Area
-|   |   +-- _Essential_Habitat_Maps
-|   |   +-- _Heritage_Register_Boundaries_Queensland
-|   |   +-- _Land_Use
-|   |   +-- _Local_Government_Area
-|   |   +-- _Project_Area
-|   |   +-- _Property_Boundaries_Queensland
-|   |   +-- _Surface_Geology_Queensland
+
+    create-base-datasets
+    |   +-- createbasedatasets.tbx
+    |   +-- __init__.py
+    |   +-- LICENCE.TXT
+    |   +-- main.py
+    |   +-- README.MD
+    |   +-- _supportingModules
+    |   |   +-- __init__.py
+    |   |   +-- adm.py
+    |   |   +-- cad.py
+    |   |   +-- cli.py
+    |   |   +-- env.py
+    |   |   +-- geo.py
+    |   |   +-- haz.py
+    |   |   +-- hum.py
+    |   |   +-- hyd.py
+    |   |   +-- lnd.py
+    |   |   +-- mar.py
+    |   |   +-- pln.py
+    |   |   +-- ras.py
+    |   |   +-- top.py
+    |   |   +-- utl.py
+    |   |   +-- create_index.py
+    |   +-- _testData
+    |   |   +-- _Baseline_Roads_and_Tracks
+    |   |   +-- Default.gdb
+    |   |   +-- _Drainage_Line_Major
+    |   |   +-- _Erosion_Prone_Area
+    |   |   +-- _Essential_Habitat_Maps
+    |   |   +-- _Heritage_Register_Boundaries_Queensland
+    |   |   +-- _Land_Use
+    |   |   +-- _Local_Government_Area
+    |   |   +-- _Project_Area
+    |   |   +-- _Property_Boundaries_Queensland
+    |   |   +-- _Surface_Geology_Queensland
 
 **createbasedatasets.tbx:**
 
