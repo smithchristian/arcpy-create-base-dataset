@@ -3,6 +3,49 @@
 This project is designed to create base datasets for projects utilising ArcGIS 10.x , Arcpy and Python. The term "base" in the title, refers to baseline/basic dataset which would contain generic GIS layers (e.g. Roads, Railway line, Watercouses) needed to start a project.
 
 ### Description of Project Contents
+.
+├── create_base_datasets_public
+│   ├── createbasedatasets.tbx
+│   ├── __init__.py
+│   ├── LICENCE.TXT
+│   ├── main.py
+│   ├── README.MD
+│   ├── supportingModules
+│   │   ├── adm.py
+│   │   ├── adm.pyc
+│   │   ├── cad.py
+│   │   ├── cad.pyc
+│   │   ├── cli.py
+│   │   ├── cli.pyc
+│   │   ├── create_index.py
+│   │   ├── create_index.pyc
+│   │   ├── env.py
+│   │   ├── env.pyc
+│   │   ├── geo.py
+│   │   ├── geo.pyc
+│   │   ├── haz.py
+│   │   ├── haz.pyc
+│   │   ├── hum.py
+│   │   ├── hum.pyc
+│   │   ├── hyd.py
+│   │   ├── hyd.pyc
+│   │   ├── __init__.py
+│   │   ├── __init__.pyc
+│   │   ├── lnd.py
+│   │   ├── lnd.pyc
+│   │   ├── mar.py
+│   │   ├── mar.pyc
+│   │   ├── pln.py
+│   │   ├── pln.pyc
+│   │   ├── ras.py
+│   │   ├── ras.pyc
+│   │   ├── top.py
+│   │   ├── top.pyc
+│   │   ├── trn.py
+│   │   ├── trn.pyc
+│   │   ├── utl.py
+│   │   └── utl.pyc
+│   └── testData
 
 create-base-datasets
 |   +-- createbasedatasets.tbx
@@ -145,8 +188,8 @@ In order to run this project the following is required:
 1. Open ArcGIS Desktop 10.x.
 2. Open ArcToolbox.
 3. If the Create base datasets toolbox is not present, follow the installation steps, then open the Create base dataset tool.
-4. In the Clip Feature field, use the shapefile located here: �\create-base-dataset \testData\Project_Area\Project_Clip_Extent_Test_Only.shp�.
-5. In the Output folder path field, you can either specify your own output folder or use this location �\create-base-dataset \testData\Test_Results�.
+4. In the Clip Feature field, use the shapefile located here: “\create-base-dataset \testData\Project_Area\Project_Clip_Extent_Test_Only.shp”.
+5. In the Output folder path field, you can either specify your own output folder or use this location “\create-base-dataset \testData\Test_Results”.
 6. You can check on and off the .gdb that you would like created, but for the first time, I would suggest leaving them all checked on.
 7. Click OK.
 
